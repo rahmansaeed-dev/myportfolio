@@ -25,3 +25,7 @@ closeMenu.addEventListener('click', () => {
     menuList.classList.remove("active")
 } )
 
+
+
+
+requestAnimationFra
